@@ -9,5 +9,7 @@ namespace EjemplosED
         public string Codigo { get; set; }
         public string Descripcion { get; set; }
         public decimal ValorUnitario { get; set; }
+
+        public string NoIdentificacion { get; set; }
     }
 }

@@ -93,6 +93,8 @@ namespace EjemplosED
                         producto.Descripcion = "Nueva descripcion";
                     }
                 }
+
+                //Aqui vamos a hacer un cambio
             }
             catch (Exception ex)
             {
